@@ -1,7 +1,4 @@
-# Roman-Numeral-Converter-Socket-Programming-
-A client-server application built in Python that converts integers into Roman numerals using TCP sockets. This project demonstrates basic network communication, data encoding/decoding, and algorithmic conversion logic.
 
-This is a solid socket programming project that fits right into your Python full-stack developer journey. Since you are focusing on data engineering and clean code, I have structured this README to be professional and easy for others to follow.
 
 ---
 
