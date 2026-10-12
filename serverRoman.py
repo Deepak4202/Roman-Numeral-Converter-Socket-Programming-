@@ -26,6 +26,7 @@ while True:
                 n-=500
             if n>=400:
                 roman = roman +"CD"
+                n-=400
             while n>=100:
                 roman = roman+"C"
                 n-=100
